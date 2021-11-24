@@ -1,20 +1,17 @@
 # Predicting Laptop Prices Using Linear Regression
 
 Pencils, paper and crayons? No, this year’s most important back-to-school supply is a computer/Laptop
-
 How much you need to spend to get a computer with a good battery and a webcam that can keep on trucking for three or four years?
-
-In this project I’m going to do web scraping to the noon.com KSA website then linear regression to predict the laptop prices.
+In this project I’m going to do web scraping from the noon.com KSA website then linear regression to predict the laptop prices.
 
 ## Question/need:
-
-The purpose of this project is to help 
+How much does a laptop cost ?
+The purpose of this project is to help predict laptop prices
 
 
 ## Data Description:
 This data will be scraped from noon store in KSA and it will contain the important features for The laptop 
-
-
+Like : laptop Name , core , Inch , RAM , Color ,Brand ,Price
 
 ## Tools
 
