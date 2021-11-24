@@ -15,9 +15,9 @@ Like : laptop Name , core , Inch , RAM , Color ,Brand ,Price
 
 ## Tools
 
-•	BeautifulSoup :collect data from website 
-•	Pandas : Explore and Clean data , 
-•	Matplotlib, seaborn :visualize data and models 
+- BeautifulSoup :collect data from website 
+- Pandas : Explore and Clean data , 
+- Matplotlib, seaborn :visualize data and models 
 
 ## MVP Goal :
 The aimed output of the prediction modelwould have a throughout report with expected or predicted affordable laptob prices for the students , this would be achived using linear regression model then selection and evalution the best model using ttesting methods on web scrapped data from noon  KSA.
