@@ -5,9 +5,7 @@ How much you need to spend to get a computer with a good battery and a webcam th
 In this project I’m going to do web scraping from the noon.com KSA website then linear regression to predict the laptop prices.
 
 ## Question/need:
-How much does a laptop cost ?
-The purpose of this project is to help predict laptop prices
-
+We need to estimate the laptop cost based on the laptop features.
 
 ## Data Description:
 This data will be scraped from noon store in KSA and it will contain the important features for The laptop 
@@ -18,6 +16,7 @@ Like : laptop Name , core , Inch , RAM , Color ,Brand ,Price
 - BeautifulSoup :collect data from website 
 - Pandas : Explore and Clean data , 
 - Matplotlib, seaborn :visualize data and models 
+- sklearn : train models
 
 ## MVP Goal :
 The aimed output of the prediction model would have a throughout report with expected or predicted affordable laptob prices for the students , this would be achived using linear regression model then selection and evalution the best model using testing methods on web scrapped data from noon  KSA.
