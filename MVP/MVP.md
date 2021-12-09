@@ -6,4 +6,5 @@ Based on the analysis done, I came to conclude that these features are the most 
 
 - laptops with touchbar are more expensive then laptopts without touchbar
 
-![Alt text](MVP/image.png?raw=true "image")
+!
+![alt text](MVP/image.png)
