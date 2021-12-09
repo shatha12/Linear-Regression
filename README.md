@@ -9,7 +9,19 @@ We need to estimate the laptop cost based on the laptop features.
 
 ## Data Description:
 This data will be scraped from jarir store in KSA and it will contain the important features for The laptop 
-Like : laptop Name , core , Inch , RAM , Color ,Brand ,Price
+
+- Company Name
+- Product Name
+- Laptop Type
+- Screen Inches
+- Screen Resolution
+- CPU Model
+- RAM Characteristics
+- Memory
+- GPU Characteristics
+- Operating System
+- Laptop's Weight
+- Laptop's Price
 
 ## Tools
 
