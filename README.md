@@ -2,7 +2,7 @@
 
 Pencils, paper and crayons? No, this year’s most important back-to-school supply is a computer/Laptop
 How much you need to spend to get a computer with a good battery and a webcam that can keep on trucking for three or four years?
-In this project I’m going to do web scraping from the noon.com KSA website then linear regression to predict the laptop prices.
+In this project I’m going to do web scraping from the jarir.com website then linear regression to predict the laptop prices.
 
 ## Question/need:
 We need to estimate the laptop cost based on the laptop features.
