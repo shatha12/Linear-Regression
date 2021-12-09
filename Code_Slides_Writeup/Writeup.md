@@ -17,8 +17,8 @@ The data was scrapped from Jarir.com the predictions of used laptop prices were 
 ## Algorithms
 Pre-processing
 1. Remove extra unnecessary details.
-2- Created plots to visualize the relationships between the target and predictors, and between the variables themselves.
-3- Decided which features to keep and which to drop.
+2. Created plots to visualize the relationships between the target and predictors, and between the variables themselves.
+3. Decided which features to keep and which to drop.
 
 ## Feature Engineering
 1- Convert some columns into Numeric Values
