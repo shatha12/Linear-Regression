@@ -21,17 +21,17 @@ Pre-processing
 3. Decided which features to keep and which to drop.
 
 ## Feature Engineering
-1- Convert some columns into Numeric Values
-2- Convert some categorical variables into dummy variables
-3- Split data to train and test data.
+1. Convert some columns into Numeric Values
+2. Convert some categorical variables into dummy variables
+3. Split data to train and test data.
 
 ## Models
-1- Several linear regressions, Polynomial regressions ,  RANDOM FOREST REGRESSOR were developed,
-2- Pick and choose the best model with the right number of features to avoid the complexity and error.
+1. Several linear regressions, Polynomial regressions ,  RANDOM FOREST REGRESSOR were developed,
+2. Pick and choose the best model with the right number of features to avoid the complexity and error.
 
 ## Model Evaluation and Selection
-1- The dataset observations of 1300 were split into 80/20 train vs. test.
-2- The evaluation of our models was based on R2 score.
+1. The dataset observations of 1300 were split into 80/20 train vs. test.
+2. The evaluation of our models was based on R2 score.
 
 ## Tools
 Tools: 
