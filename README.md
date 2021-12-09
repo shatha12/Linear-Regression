@@ -8,7 +8,7 @@ In this project I’m going to do web scraping from the jarir.com website then l
 We need to estimate the laptop cost based on the laptop features.
 
 ## Data Description:
-This data will be scraped from noon store in KSA and it will contain the important features for The laptop 
+This data will be scraped from jarir store in KSA and it will contain the important features for The laptop 
 Like : laptop Name , core , Inch , RAM , Color ,Brand ,Price
 
 ## Tools
