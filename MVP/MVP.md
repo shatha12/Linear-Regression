@@ -5,3 +5,5 @@ Based on the analysis done, I came to conclude that these features are the most 
 - The bigger the RAM size, Screen size size the more expensive it is.
 
 - laptops with touchbar are more expensive then laptopts without touchbar
+
+![Alt text](MVP/image.png?raw=true "image")
